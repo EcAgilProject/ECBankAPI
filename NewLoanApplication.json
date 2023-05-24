@@ -1,0 +1,15 @@
+{
+  "amount":130000,
+  "payBackPeriod": 10,
+  "socialSecurityNumber": "19900101-1234",
+  "email": "janedoe@mail.com",
+  "phoneNumber": "0770-123456",
+  "maritalStatusType": "Single",
+  "children": 0,
+  "residenceType": "Tenancy",
+  "residenceCost": 70000,
+  "employmentType": "Student",
+  "salary": 45000,
+  "employedSince": "2020-05-24",
+  "employerName": "ec"
+}
